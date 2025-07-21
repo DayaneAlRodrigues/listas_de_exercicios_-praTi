@@ -1,5 +1,11 @@
-# Primeira lista de exercícios da turma 2025 do
-## Projeto Dev. Full Stack Jr. da +praTI & Codifica
+# Exercícios Avaliativos do Projeto Full Stack Junior
+Este repositório foi criado com o objetivo de versionar as atividades avaliativas do curso.
+Cada lista está organizada no repositório por pastas.
+
+---
+
+## Primeira lista de exercícios
+
 
 ### Para executar os códigos
 
@@ -29,3 +35,16 @@ Para executar os códigos desta lista de exercícios, siga as instruções abaix
     * E assim por diante para os demais exercícios da lista.
 
 Lembre-se de substituir `exercicioX.js` pelo nome do arquivo do exercício que você deseja executar.
+
+---
+# Lista de exercícios 2
+Prática de lógica de programação
+
+---
+# Lista de exercícios 3 - Desenvolvimento Web Básico
+
+* Utilização de **tags semânticas no HTML**
+* **listas e navegação**
+* **formulário**
+* **CSS Básico, box model, grid e flex box**
+* **Menu hamburguer js**
