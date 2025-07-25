@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #E7F3F8;
+    color: #2A3F48;
+}
+header {
+    background-color: #43626E;
+    color: #E7F3F8;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2rem;
+    margin: 0.2rem;
+    border: 1px solid #a8b2d7;
+}
+
+.container h2 {
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+
+.destaque {
+    font-style: italic;
+    background-color: #5e8797;
+}
+p {
+    font-size: 20px;
+}
+#importante {
+    border-top: 0.5rem solid #a8b2d7;
+}
